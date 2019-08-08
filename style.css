@@ -2,3 +2,21 @@
   min-width: 300px;
   text-align: center;
 }
+
+.bg-orange{
+  background-color: #f0523f;
+}
+
+.btn-orange{
+  background-color: #f0523f;
+  color: white;
+}
+
+.popout{
+  margin-top: 49px;
+  margin-bottom: -49px;
+}
+
+.bg-gray{
+  background-color: #f2f2f2;
+}
