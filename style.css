@@ -20,3 +20,8 @@
 .bg-gray{
   background-color: #f2f2f2;
 }
+
+.big-picture{
+  min-width: 75%;
+  min-height: 100%;
+}
